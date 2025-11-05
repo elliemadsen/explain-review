@@ -62,6 +62,14 @@ h1 {
   font-size: 3em;
 }
 
+.quote-sm {
+  font-size: 2em;
+}
+
 .title {
   font-size: 5em;
+}
+
+video {
+  max-width: 100%;
 }
